@@ -1,5 +1,5 @@
 # STARTUP
-#### Eamil signup application, 2021
+#### Email signup application, 2021
 #### By **[CIAN](https://github.com/Cian747)**
 ## Description
 * This a basic email signup application that is meant to collect and audience for marketing purposes.
